@@ -1,0 +1,26 @@
+{
+  "name": "Desafio_Omnistack_Backend",
+  "version": "1.0.0",
+  "description": "\"# Desafio_Omnistack_Backend\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrique-nofv/Desafio_Omnistack_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrique-nofv/Desafio_Omnistack_Backend/issues"
+  },
+  "homepage": "https://github.com/henrique-nofv/Desafio_Omnistack_Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
